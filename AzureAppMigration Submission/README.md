@@ -81,32 +81,32 @@ With the ability to automatically scale to meet increase demands and security an
 ### Migrate Web Applications
 
 Screenshot of Azure Resource showing the App Service Plan.
-![Azure Resource](/screenshots/1.1.png)
+![Azure Resource](https://github.com/jmcole/Azure-Migration/blob/main/AzureAppMigration%20Submission/screenshots/1.1.PNG)
 Screenshot of the deployed Web App running. The screenshot should be fullscreen showing the URL and application running.
-![Azure WebApp](/screenshots/1.2.png)
+![Azure WebApp](https://github.com/jmcole/Azure-Migration/blob/main/AzureAppMigration%20Submission/screenshots/1.2.PNG)
 
 ### Migrate Database
 
 Screenshot of the Azure Resource showing the Azure Database for PostgreSQL server.
-![Azure Database](/screenshots/2.1.png)
+![Azure Database](https://github.com/jmcole/Azure-Migration/blob/main/AzureAppMigration%20Submission/screenshots/2.1.PNG)
 
 Screenshot of the Web App successfully loading the list of attendees and notifications from the deployed website.
 
-![Attendees](/screenshots/2.2.png)
-![Notifications](/screenshots/2.3.png)
+![Attendees](https://github.com/jmcole/Azure-Migration/blob/main/AzureAppMigration%20Submission/screenshots/2.2.PNG)
+![Notifications](https://github.com/jmcole/Azure-Migration/blob/main/AzureAppMigration%20Submission/screenshots/2.3.PNG)
 
 ### Migrate Background Process
 
 Screenshot of the Azure Function App running in Azure, showing the function name and the function app plan.
-![Azure Function App](/screenshots/3.1.png)
+![Azure Function App](https://github.com/jmcole/Azure-Migration/blob/main/AzureAppMigration%20Submission/screenshots/3.1.PNG)
 
 ### Submitting a new notification.
 Screenshot of filled out Send Notification form.
-![Send notification form](./screenshots/4.1.png)
+![Send notification form](https://github.com/jmcole/Azure-Migration/blob/main/AzureAppMigration%20Submission/screenshots/4.1.PNG)
 Notification processed after executing the Azure function.
 Screenshot of the Email Notifications List showing the notification status as Notifications submitted.
 Screenshot of the Email Notifications List showing the notification status as Notified X attendees.
 `Notification#43`
-![Updated database](./screenshots/4.2.png)
+![Updated database](https://github.com/jmcole/Azure-Migration/blob/main/AzureAppMigration%20Submission/screenshots/4.2.PNG)
 
 
