@@ -107,6 +107,6 @@ Notification processed after executing the Azure function.
 Screenshot of the Email Notifications List showing the notification status as Notifications submitted.
 Screenshot of the Email Notifications List showing the notification status as Notified X attendees.
 `Notification#43`
-![Updated database](https://github.com/jmcole/Azure-Migration/blob/main/AzureAppMigration%20Submission/screenshots/4.2.PNG)
+![Updated database](https://github.com/jmcole/Azure-Migration/blob/main/AzureAppMigration%20Submission/screenshots/4.2.png)
 
 
