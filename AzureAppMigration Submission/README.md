@@ -102,11 +102,11 @@ Screenshot of the Azure Function App running in Azure, showing the function name
 
 ### Submitting a new notification.
 Screenshot of filled out Send Notification form.
-![Send notification form](/screenshots/4.1.png)
+![Send notification form](./screenshots/4.1.png)
 Notification processed after executing the Azure function.
 Screenshot of the Email Notifications List showing the notification status as Notifications submitted.
 Screenshot of the Email Notifications List showing the notification status as Notified X attendees.
 `Notification#43`
-![Updated database](/screenshots/4.2.png)
+![Updated database](./screenshots/4.2.png)
 
 
