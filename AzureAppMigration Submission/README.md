@@ -67,7 +67,7 @@ Complete a month cost analysis of each Azure resource to give an estimate total 
 | *Azure Service Bus*   |    Basic     |      $.05 per million operations        |
 | *Azure App Service*   |     Free    |        $0.00      |
 |*Azure Web App Service* | Free|$0.00|
-|*Azure Function* | Consumption|$0.000016/GB-s execution time(*400,000 GB-s) and $0.20 per million executions *(1 million executions)*free grant|$0.00 at current usuage|
+|*Azure Function* | Consumption|$0.000016/GB-s execution time(*400,000 GB-s) and $0.20 per million executions *(1 million executions) $0.00 at current usuage (*free grant )|
 |*SendGrid* | Free |$0.00 (up to emails a day)|
 
 ## Architecture Explanation
