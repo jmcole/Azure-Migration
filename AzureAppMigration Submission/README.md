@@ -79,32 +79,32 @@ With the ability to automatically scale to meet increase demands and security an
 ### Migrate Web Applications
 
 Screenshot of Azure Resource showing the App Service Plan.
-![Azure Resource](AzureAppMigration Submission/screenshots/1.1.PNG)
+![Azure Resource](/AzureAppMigration Submission/screenshots/1.1.PNG)
 Screenshot of the deployed Web App running. The screenshot should be fullscreen showing the URL and application running.
-![Azure WebApp](AzureAppMigration Submission/screenshots/1.2.PNG)
+![Azure WebApp](/AzureAppMigration Submission/screenshots/1.2.PNG)
 
 ### Migrate Database
 
 Screenshot of the Azure Resource showing the Azure Database for PostgreSQL server.
-![Azure Database](AzureAppMigration Submission/screenshots/2.1.PNG)
+![Azure Database](/AzureAppMigration Submission/screenshots/2.1.PNG)
 
 Screenshot of the Web App successfully loading the list of attendees and notifications from the deployed website.
 
-![Attendees](AzureAppMigration Submission/screenshots/2.2.PNG)
-![Notifications](AzureAppMigration Submission/screenshots/2.3.PNG)
+![Attendees](/AzureAppMigration Submission/screenshots/2.2.PNG)
+![Notifications](/AzureAppMigration Submission/screenshots/2.3.PNG)
 
 ### Migrate Background Process
 
 Screenshot of the Azure Function App running in Azure, showing the function name and the function app plan.
-![Azure Function App](AzureAppMigration Submission/screenshots/3.1.PNG)
+![Azure Function App](/AzureAppMigration Submission/screenshots/3.1.PNG)
 
 ### Submitting a new notification.
 Screenshot of filled out Send Notification form.
-![Send notification form](AzureAppMigration Submission/screenshots/4.1.PNG)
+![Send notification form](/AzureAppMigration Submission/screenshots/4.1.PNG)
 Notification processed after executing the Azure function.
 Screenshot of the Email Notifications List showing the notification status as Notifications submitted.
 Screenshot of the Email Notifications List showing the notification status as Notified X attendees.
 `Notification#43`
-![Updated database](AzureAppMigration Submission/screenshots/4.2.PNG)
+![Updated database](/AzureAppMigration Submission/screenshots/4.2.PNG)
 
 
